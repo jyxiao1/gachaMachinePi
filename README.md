@@ -31,6 +31,36 @@ Audrey's stock
         Animal Crossing Digby
         Animal Crossing Bob Clay
         Ghibli Kodama
+        Animal Crossing Bell Bag
+        Animal Crossing Leaf
+        Animal Crossing Tom Nook
+        Animal Crossing Pitfall
+        Zelda Korok
+        Pokemon Wooper
+        Animal Crossing Villager
+        Pokemon Snorlax
+        Splatoon
+        Polymer Clay
+        Cleffa
+        Succulent Oddish
+        Animal Crossing Lillie
+        Pokemon Bulbasaur
+        Pokemon Turtwig
+        Pokemon Ditto
+        Pokemon Treeko
+        Pokemon Gengar
+        Clay Flourite
+        Succulent
+        Phantump
+        Pokemon Cleffa
+        Pokemon Mimikyu
+        Pokemon Petlil
+        Clay Egg
+        Pokemon Drifloon
+        Pokemon Gourgeist
+        Pokemon Jirachi
+        Pokemon Dratini
+        Pokemon Cyndaquil
 
     Prints
         Steven Universe Pearl
@@ -38,6 +68,11 @@ Audrey's stock
         Lio Fotia
 
     Ghost Pattern Pencil Case
-
+    Grass pattern Cosmetic Bag
+    Psychic Pattern Cosmetic Bag
+    Grass Type Coin Purse
+    Sobble Squad Embroidery
+    Pokemon Inspirational Stickers
+    Iron On
 
 
